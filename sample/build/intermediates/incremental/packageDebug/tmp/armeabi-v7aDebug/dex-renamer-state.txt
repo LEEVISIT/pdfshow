@@ -1,0 +1,4 @@
+#Tue May 18 13:48:14 CST 2021
+base.0=D\:\\demo\\AndroidPdfViewerDemo\\sample\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

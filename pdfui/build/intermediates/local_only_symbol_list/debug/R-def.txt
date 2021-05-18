@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+drawable arrow_h
+drawable arrow_v
+drawable shape_button
+drawable shape_textview
+id btn_back
+id btn_catalogue
+id btn_preview
+id iv_arrow
+id iv_page
+id pdfView
+id rl_top
+id rv_grid
+id rv_tree
+id tv_pagenum
+id tv_title
+id v_line
+layout activity_catelogue
+layout activity_pdf
+layout activity_preview
+layout grid_item
+layout tree_item
+string app_name

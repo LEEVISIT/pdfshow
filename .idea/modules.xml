@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidPdfViewerDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidPdfViewerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-pdf-viewer/AndroidPdfViewerDemo.android-pdf-viewer.iml" filepath="$PROJECT_DIR$/.idea/modules/android-pdf-viewer/AndroidPdfViewerDemo.android-pdf-viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdfui/AndroidPdfViewerDemo.pdfui.iml" filepath="$PROJECT_DIR$/.idea/modules/pdfui/AndroidPdfViewerDemo.pdfui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/AndroidPdfViewerDemo.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/AndroidPdfViewerDemo.sample.iml" />
+    </modules>
+  </component>
+</project>

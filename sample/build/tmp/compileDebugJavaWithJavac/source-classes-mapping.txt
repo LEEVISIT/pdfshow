@@ -1,0 +1,7 @@
+com/github/barteksc/sample/BuildConfig.java
+ com.github.barteksc.sample.BuildConfig
+com/github/barteksc/sample/TestActivity.java
+ com.github.barteksc.sample.TestActivity
+ com.github.barteksc.sample.TestActivity$1
+ com.github.barteksc.sample.TestActivity$2
+ com.github.barteksc.sample.TestActivity$3

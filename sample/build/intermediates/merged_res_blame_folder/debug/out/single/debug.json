@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\demo\\AndroidPdfViewerDemo\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_open_in_browser_grey_700_48dp.png.flat",
+        "source": "D:\\demo\\AndroidPdfViewerDemo\\sample\\src\\main\\res\\drawable-hdpi\\ic_open_in_browser_grey_700_48dp.png"
+    },
+    {
+        "merged": "D:\\demo\\AndroidPdfViewerDemo\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_shape_blue_button.xml.flat",
+        "source": "D:\\demo\\AndroidPdfViewerDemo\\sample\\src\\main\\res\\drawable\\shape_blue_button.xml"
+    },
+    {
+        "merged": "D:\\demo\\AndroidPdfViewerDemo\\sample\\build\\intermediates\\res\\merged\\debug\\menu_options.xml.flat",
+        "source": "D:\\demo\\AndroidPdfViewerDemo\\sample\\src\\main\\res\\menu\\options.xml"
+    },
+    {
+        "merged": "D:\\demo\\AndroidPdfViewerDemo\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_open_in_browser_grey_700_48dp.png.flat",
+        "source": "D:\\demo\\AndroidPdfViewerDemo\\sample\\src\\main\\res\\drawable-xhdpi\\ic_open_in_browser_grey_700_48dp.png"
+    },
+    {
+        "merged": "D:\\demo\\AndroidPdfViewerDemo\\sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\demo\\AndroidPdfViewerDemo\\sample\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\demo\\AndroidPdfViewerDemo\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "D:\\demo\\AndroidPdfViewerDemo\\sample\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\demo\\AndroidPdfViewerDemo\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_open_in_browser_grey_700_48dp.png.flat",
+        "source": "D:\\demo\\AndroidPdfViewerDemo\\sample\\src\\main\\res\\drawable-xxhdpi\\ic_open_in_browser_grey_700_48dp.png"
+    },
+    {
+        "merged": "D:\\demo\\AndroidPdfViewerDemo\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_open_in_browser_grey_700_48dp.png.flat",
+        "source": "D:\\demo\\AndroidPdfViewerDemo\\sample\\src\\main\\res\\drawable-xxxhdpi\\ic_open_in_browser_grey_700_48dp.png"
+    },
+    {
+        "merged": "D:\\demo\\AndroidPdfViewerDemo\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_open_in_browser_grey_700_48dp.png.flat",
+        "source": "D:\\demo\\AndroidPdfViewerDemo\\sample\\src\\main\\res\\drawable-mdpi\\ic_open_in_browser_grey_700_48dp.png"
+    }
+]

@@ -1,0 +1,43 @@
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+repositories {
+    google()
+    jcenter()
+}
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 30
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 30
+        versionCode 3
+        versionName "3.0.0"
+    }
+
+    splits {
+        abi {
+            enable true
+            reset()
+            include 'armeabi-v7a'
+        }
+    }
+
+}
+
+dependencies {
+//    implementation project(':android-pdf-viewer')
+    implementation project(':pdfui')
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'org.androidannotations:androidannotations-api:4.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    annotationProcessor "org.androidannotations:androidannotations:4.4.0"
+    implementation "androidx.recyclerview:recyclerview:1.1.0"
+}
